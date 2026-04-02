@@ -42,8 +42,16 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[D:/CIBERTEC/DESAROLLO DE SERVICIOS WEB I/PROYECTOS/app_crud/app_crud/Views/Producto/Filtrar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cRmlsdHJhci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/CIBERTEC/DESAROLLO DE SERVICIOS WEB I/PROYECTOS/app_crud/app_crud/Views/Producto/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/CIBERTEC/DESAROLLO DE SERVICIOS WEB I/PROYECTOS/app_crud/app_crud/Views/Producto/Paginacion.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdG9cUGFnaW5hY2lvbi5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/CIBERTEC/DESAROLLO DE SERVICIOS WEB I/PROYECTOS/app_crud/app_crud/Views/Shared/Error.cshtml]

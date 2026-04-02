@@ -331,3 +331,4 @@ D:\CIBERTEC\DESAROLLO DE SERVICIOS WEB I\PROYECTOS\app_crud\app_crud\bin\Debug\n
 D:\CIBERTEC\DESAROLLO DE SERVICIOS WEB I\PROYECTOS\app_crud\app_crud\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
 D:\CIBERTEC\DESAROLLO DE SERVICIOS WEB I\PROYECTOS\app_crud\app_crud\obj\Debug\net10.0\app_crud.csproj.AssemblyReference.cache
 D:\CIBERTEC\DESAROLLO DE SERVICIOS WEB I\PROYECTOS\app_crud\app_crud\obj\Debug\net10.0\app_crud.csproj.Up2Date
+D:\CIBERTEC\DESAROLLO DE SERVICIOS WEB I\PROYECTOS\app_crud\app_crud\obj\Debug\net10.0\app_crud.sourcelink.json
